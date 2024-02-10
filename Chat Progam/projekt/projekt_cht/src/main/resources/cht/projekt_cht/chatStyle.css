@@ -1,0 +1,19 @@
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+.menu-background{
+    -fx-background-color: #4d8066;
+}
+
+.primary-background{
+    -fx-background-color: #ecf9f2;
+}
+.secondary-background{
+    -fx-background-color: #7ab898;
+}
+.round{
+    -fx-background-radius: 80px;
+}
+.dark-text{
+    color: black;
+}
